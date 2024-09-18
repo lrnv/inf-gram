@@ -1,9 +1,8 @@
-# Inf-gram practical on ensemble learning
+# Inf-gram Practical 3: Ensemble Learning
 
-**Objective** : We are going to create a machine learning approach able to clasiify if a tumor is malignant or not taking into consideration differtent metrics of the tumor.
+**Objective:** Create machine leaning approaches to classify a tumor as malignant or not, taking different metrics of the tumor in consideration.
 
 **Useful links:**
-
 * Confusion matrix https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
 * AUC score https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score
 * SVM https://scikit-learn.org/stable/modules/svm.html
@@ -12,10 +11,10 @@
 * Randomforest https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 * Voting classifiers https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html
 
-# 1. Data set : Breast Cancer Wisconsin Data set
+**Data set : Breast Cancer Wisconsin Data set**
 
-https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
-
+The dataset can be found here: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+The following python code loads it: 
 
 ```python
 import pandas as pd
@@ -47,16 +46,22 @@ X = df.drop('target', axis=1)
 y = cancer.target
 ```
 
-**Discovring the data:**
+**Tasks:**
+1. Discovering the data
+    a. Print the main charactersitics of the data set: size, description, if it has null values, and show the first five rows and the statistical properties of each input feature.
+    b. Normalize the data
+    c. Split the dataset in train/test
+2. Machine learning analysis: SVM
+    a. Implement a SVM, chose various kernels. 
+    b. Carry out grid search with random forest to calculate de best hyperparameters. Which one works better? 
+    c. Show the confusion matrix, the AUC, the precision and the recall for each type of kernel.
+    d. Is there overfitting? How can we check it ? 
+3. Same question for a decision tree
+4. Same question for a Random forest. 
+    a. What is the optimal number of predictors?
+    b. Check the feature importances in the classification.
+5. Ensemble learning
+    a. Create a voting classifier taking as input the best model of each family. 
+    b. Do the performace evaluation and check for the overfitting.
 
-1) Print the main charactersitics of the data set: Size, description, if it has null values, and show the first five rows and the statistical properties of each input feature.
-2) Normalize the data
-3) Split the dataset in train/test
-
-**Machine leaning analysis:**
-
-4) Implement a model of SVM, chose various kernels. Carry out grid search with random forest to calculate de best hyperparameters. Which one works better? Show the confusion matrix, the AUC, the precision and the recall for each type of kernel?
-5) Is there overfitting? How can we check it ? 
-6) Implement a decision tree based model. Do the same evaluation.
-7) Repeat with a Randoml Forest model. Carry out grid search with random forest to calculate de best hyperparameters. what is the optimal number predictors? Check the importance of each feature in the clasification
-8) Create a voting classifier taking as input the best model of each family. Do the performace evaluation and check for the overfitting.
+**Submission:** Submit your notebook in full (e.g., the collab file), including comments and responses to the questions.
