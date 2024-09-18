@@ -73,3 +73,7 @@ For the task 4 and 5 you have more freedom to choose which model you want to tes
 
 19. For the last task, use a table to present the performance of the three model on the test sample. 
 20. Choose a final model and argument your choice.
+
+**Submission:** You should submit the collab notebook with all the codes, graphs, comments and answers to the questions. 
+
+**Evaluation:** At the oral examination, you will be asked to execute the project in live and comment on the main results. We will ask questions about the results and technical developepments. The total oral duration will be about 15 minuts.
