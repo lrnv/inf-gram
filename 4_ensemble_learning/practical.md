@@ -48,20 +48,20 @@ y = cancer.target
 
 **Tasks:**
 1. Discovering the data
-    a. Print the main charactersitics of the data set: size, description, if it has null values, and show the first five rows and the statistical properties of each input feature.
-    b. Normalize the data
-    c. Split the dataset in train/test
+    - a. Print the main charactersitics of the data set: size, description, if it has null values, and show the first five rows and the statistical properties of each input feature.
+    - b. Normalize the data
+    - c. Split the dataset in train/test
 2. Machine learning analysis: SVM
-    a. Implement a SVM, chose various kernels. 
-    b. Carry out grid search with random forest to calculate de best hyperparameters. Which one works better? 
-    c. Show the confusion matrix, the AUC, the precision and the recall for each type of kernel.
-    d. Is there overfitting? How can we check it ? 
+    - a. Implement a SVM, chose various kernels. 
+    - b. Carry out grid search with random forest to calculate de best hyperparameters. Which one works better? 
+    - c. Show the confusion matrix, the AUC, the precision and the recall for each type of kernel.
+    - d. Is there overfitting? How can we check it ? 
 3. Same question for a decision tree
 4. Same question for a Random forest. 
-    a. What is the optimal number of predictors?
-    b. Check the feature importances in the classification.
+    - a. What is the optimal number of predictors?
+    - b. Check the feature importances in the classification.
 5. Ensemble learning
-    a. Create a voting classifier taking as input the best model of each family. 
-    b. Do the performace evaluation and check for the overfitting.
+    - a. Create a voting classifier taking as input the best model of each family. 
+    - b. Do the performace evaluation and check for the overfitting.
 
 **Submission:** Submit your notebook in full (e.g., the collab file), including comments and responses to the questions.
