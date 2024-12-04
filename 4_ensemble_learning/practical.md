@@ -53,7 +53,7 @@ y = cancer.target
     - c. Split the dataset in train/test
 2. Machine learning analysis: SVM
     - a. Implement a SVM, chose various kernels. 
-    - b. Carry out grid search with random forest to calculate de best hyperparameters. Which one works better? 
+    - b. Carry out grid search with the SVM to calculate its best hyperparameters. Which one works better? 
     - c. Show the confusion matrix, the AUC, the precision and the recall for each type of kernel.
     - d. Is there overfitting? How can we check it ? 
 3. Same question for a decision tree
