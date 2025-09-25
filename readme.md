@@ -1,4 +1,4 @@
-This repository contains the content of the INF-PROF lecture. The link to the lectures calls are on Amétice. 
+This repository contains the content of the INF-GRAM lecture. The link to the lectures calls are on Amétice. 
 
 
 Lecture timings for 2025/2026: 
@@ -17,4 +17,5 @@ Important dates:
 
 * Session's 1 practical is to be handled on Amétice before the 9th of November.
 * Session's 4 practical is to be handled on Amétice before the 7th of December.
+* The final project notebook is to be handled on Amétice before the 7th of December.
 * Oral examination will take place on the 10th of December. 
