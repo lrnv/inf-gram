@@ -4,6 +4,7 @@
 
 **Methodology:** Carry out a bibliographic research on Pubmed to find **one recent article** published after 2018 that uses Machine Learning for Cancer Diagnosis or Progonosis. Example of a relevant article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234681/; Google scholar ? 
 
+Analyze in detail the article and **prepare a 10 minutes presentation (with slides)** that contains the following information :
 Analyze in detail the article and **prepare a 5-10 minutes slides presentation** that contains the following information :
 - Motivation of the study
 - Objective
@@ -15,4 +16,5 @@ Analyze in detail the article and **prepare a 5-10 minutes slides presentation**
 **Submission:** Submit the pdf of the article with your annotations, (underlines, comments etc) as well as the presentation in pdf format to Ametice.
 
 **Evaluation:** 5-10 minutes presentation with five minutes for questions;
+
 
