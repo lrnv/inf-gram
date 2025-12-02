@@ -16,7 +16,8 @@ Lecture timings for 2025/2026:
 Important dates: 
 
 * Session's 1 practical is to be handled on Amétice before the 9th of November + Oral of the 17th. 
-* Session's 4 practical is to be handled on Amétice before the 7th of December.
-* The final project notebook is to be handled on Amétice before the 7th of December.
+* Session's 4 practical is to be handled on Amétice before the ~~7th of December~~ **31th of december (new date)**.
+* The final project notebook is to be handled on Amétice before the ~~7th of December~~ **11th of december (new date)**.
 
-* Oral examination will take place on **the 11th of December**. and not the 10th anymore !! Please note that. 
+* Oral examination will still take place on **the 11th of December**.
+
