@@ -76,4 +76,5 @@ For the task 4 and 5 you have more freedom to choose which model you want to tes
 
 **Submission:** You should submit the collab notebook with all the codes, graphs, comments and answers to the questions. 
 
-**Evaluation:** At the oral examination, you will be asked to execute the project in live and comment on the main results. We will ask questions about the results and technical developepments. The total oral duration will be about 15 minuts.
+
+**Evaluation:** At the oral examination, you will be asked to execute the project in live and comment on the main results. We will ask questions about the results and technical developepments. The total oral duration will be about 15 minuts, **please take this maximal timing into consideration when preparing the presentation**.
