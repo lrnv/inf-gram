@@ -27,9 +27,12 @@ The course is organized around the following topics:
 | Tuesday 6 October 2026 | 10:00–13:00 | NetConference | O. Laverny |
 | Tuesday 6 October 2026 | 14:00–17:00 | NetConference | O. Laverny |
 | Wednesday 7 October 2026 | 10:00–13:00 | NetConference | O. Laverny |
+| **Sunday 1 November 2026** | **23:59** | **Practical 1 handover deadline** | -- |
 | Tuesday 3 November 2026 | 10:00–13:00 | NetConference | O. Laverny |
 | Friday 6 November 2026 | 10:00–13:00 | NetConference | O. Laverny |
 | Friday 6 November 2026 | 14:00–17:00 | NetConference | O. Laverny |
+| **Sunday 29 November 2026** | **23:59** | **Practical 3 handover deadline** | -- |
+| **Wednesday 9 December 2026** | **9:59** | **Final Project handover deadline** | -- |
 | Wednesday 9 December 2026 | 10:00–18:00 | Oral examination | O. Laverny |
 | Thursday 10 December 2026 | 10:00–18:00 | Oral examination — continuation if required | O. Laverny |
 
@@ -37,18 +40,8 @@ Audience: **M2 AI4PH, DESU AI4PH, CESU AIPro**.
 
 ## Assessment
 
-The course includes practical work and a final project submitted through Amétice,
-followed by an oral examination.
-
-A workable provisional schedule for 2026/2027 is:
-
-- **Practical work 1:** Sunday 1 November 2026 at 23:59;
-- **Ensemble-learning practical work:** Sunday 29 November 2026 at 23:59;
-- **Final project:** Sunday 6 December 2026 at 23:59;
-- **Oral examination:** Wednesday 9 December 2026, with Thursday 10 December
-  reserved for additional slots if required.
-
-Submission deadlines should be considered provisional until confirmed on Amétice.
+The course includes two practical works and a final project submitted through Amétice,
+followed by an oral examination. **Submission deadlines are in the calendar above.**
 
 ## Getting the course material
 
