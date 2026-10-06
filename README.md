@@ -31,7 +31,7 @@ The course is organized around the following topics:
 | Tuesday 3 November 2026 | 10:00–13:00 | NetConference | O. Laverny |
 | Friday 6 November 2026 | 10:00–13:00 | NetConference | O. Laverny |
 | Friday 6 November 2026 | 14:00–17:00 | NetConference | O. Laverny |
-| **Sunday 29 November 2026** | **23:59** | **Practical 3 handover deadline** | -- |
+| **Sunday 29 November 2026** | **23:59** | **Practical 4 handover deadline** | -- |
 | **Wednesday 9 December 2026** | **9:59** | **Final Project handover deadline** | -- |
 | Wednesday 9 December 2026 | 10:00–18:00 | Oral examination | O. Laverny |
 | Thursday 10 December 2026 | 10:00–18:00 | Oral examination — continuation if required | O. Laverny |
