@@ -8,6 +8,8 @@ not simply to summarize it.
 Choose one recent peer-reviewed article (published in 2021 or later) that uses machine learning
 for a healthcare prediction, diagnosis, prognosis, phenotyping or risk-stratification problem.
 
+-> More specifically, i want you to find something towards your own reseach domain / questions. 
+
 PubMed should be your primary search tool. Google Scholar may be used to identify related work,
 but the selected article must be accessible and scientifically citable. Example of a relevant article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234681/.
 
